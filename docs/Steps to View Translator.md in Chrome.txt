@@ -1,0 +1,17 @@
+Steps to View Markdown File Using Chrome Browser
+
+1. Open Chrome Web Store or Simply Search "Markdown Viewer Extension For Chrome" Or click use the URL given below https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk?hl=en
+
+2. Install the Extension 
+
+3. After the extension gets installed, it will be reflected in top right extension column of the browser
+
+4. Click on the extension & go to "ADVANCED OPTIONS"
+
+5. Click the option "Allow File Access"
+
+6. Setting panel will be opening 
+
+7. There will be an option of "Allow access to file URLs" switch on the option
+
+8. Now, drag and drop file in Chrome, the Markdown shall open along with images and other required view.
